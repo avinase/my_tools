@@ -33,4 +33,4 @@ jobs:
          with:
             name: output.zip
             path: /home/runner/work/my_tools/my_tools/fw/output.zip
-            retention-days: 5
+            retention-days: 4
