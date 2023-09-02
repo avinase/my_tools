@@ -14,7 +14,7 @@ on:
 
 jobs:
   build:
-runs-on: 22.10
+runs-on: 18.04
 
     steps:
        - name: Checkout
