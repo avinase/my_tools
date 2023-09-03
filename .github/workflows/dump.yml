@@ -8,7 +8,7 @@ on:
         required: true
         default: ''
       Part: 
-        description: 'File (boot.img/system.img/recovery.img/...)'
+        description: 'Partition (boot/system/recovery/...)'
         required: true
         default: ''
 
